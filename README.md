@@ -5,6 +5,11 @@ of graph signal processing and node ranking.
 All operations are supported by the
 [pygrank](https://github.com/MKLab-ITI/pygrank) library.
 
+**License:** Apache Software License
+<br>**Author:** Emmanouil (Manios) Krasanakis
+<br>**Dependencies:** `pygrank`
+<br><small>*Externally install optional depenendencies to support respective backends.*</small>
+
 
 # :zap: Quickstart
 ```python
