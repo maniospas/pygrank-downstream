@@ -1,8 +1,9 @@
 # pygrank-downstream
 This repository provides artificial intelligence solutions 
 in large graphs by providing downstream applications 
-of graph signal processing and node ranking. This is supported
-by the [pygrank](https://github.com/MKLab-ITI/pygrank) library.
+of graph signal processing and node ranking. 
+All operations are supported by the
+[pygrank](https://github.com/MKLab-ITI/pygrank) library.
 
 
 # :zap: Quickstart
